@@ -1,1 +1,1 @@
-# Project-Sanket-Sign-Language-Detection-Prototype
+Sign-Language-Detection-Prototype
